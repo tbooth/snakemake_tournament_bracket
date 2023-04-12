@@ -1,0 +1,8 @@
+.snakemake/
+
+all_cards*/
+matches/
+
+*.json
+*.png
+*.new
